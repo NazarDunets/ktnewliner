@@ -1,3 +1,3 @@
-module newliner
+module ktnewliner
 
 go 1.20
